@@ -1,0 +1,13 @@
+"country","region","expected_region","mismatch"
+"Brazil","Africa","Americas",TRUE
+"Colombia","Africa","Americas",TRUE
+"Egypt","Europe","Africa",TRUE
+"India","Americas","Asia",TRUE
+"Indonesia","Americas","Asia",TRUE
+"Kazakhstan","Americas","Asia",TRUE
+"Malaysia","Asia","Asia",FALSE
+"Mexico","Asia","Americas",TRUE
+"Peru","Europe","Americas",TRUE
+"Philippines","Europe","Asia",TRUE
+"South Africa","Europe","Africa",TRUE
+"Thailand","Europe","Asia",TRUE

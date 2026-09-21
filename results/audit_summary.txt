@@ -1,0 +1,6 @@
+Food input rows: 1379
+WDI valid-year rows: 2120
+WDI footer rows removed: 5
+Selected panel rows: 96
+Region mismatches among selected countries: 11
+No causal estimate is computed: no treatment, intervention date, or identification design was supplied.
